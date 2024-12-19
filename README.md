@@ -1,4 +1,12 @@
-### Hi there 👋
+Hi, I'm Kaylen👋
+- 🔭 Software Engineer with 6+ years of experience building Android apps (including [Takealot](https://play.google.com/store/apps/details?id=fi.android.takealot&hl=en&pli=1) 🚀 | Checkout my Takealot [Github](https://github.com/Kaylen-Pillay) 👀).
+- 🪴 Currently mastering Kotlin, Jetpack Compose, Systems Design and more!
+- 💡 Passionate about creating elegant, scalable solutions.
+- 📬 Let's connect: [LinkedIn](https://www.linkedin.com/in/kaylen-travis-pillay) | [Email](mailto:kaylen.pillay@softwareological.com?subject=Github%20Connect:%20I%20want%20to%20connect)
+
+### 🚀 Skills
+![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%233DDC84.svg?style=flat&logo=android&logoColor=white)
 
 <!--
 **KaylenTPillay/KaylenTPillay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
